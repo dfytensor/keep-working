@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "mode": "todos",
+  "message": "continue",
+  "include_todos": true,
+  "cooldown_ms": 5000,
+  "max_consecutive": 25,
+  "include_child_sessions": false
+}
